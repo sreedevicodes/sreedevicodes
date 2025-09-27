@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sreedevi S<br>🚀 First-year Computer Science Engineering student at Christ College of Engineering<br>💡 Passionate about coding and building cool projects<br>🔧 Exploring web development and design<br>📚 Always learning new technologies and improving my skills<br>🌱 Currently exploring hackathons<br>im batman
+👋 Hi, I’m Sreedevi S<br>🚀 First-year Computer Science Engineering student at Christ College of Engineering<br>💡 Passionate about coding and building cool projects<br>🔧 Exploring web development and design<br>📚 Always learning new technologies and improving my skills<br>🌱 Currently exploring hackathons
 
 
 ## 🌐 Socials:
